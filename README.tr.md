@@ -1,5 +1,7 @@
 # Not API Projesi
 
+**Language / Dil:** 🇹🇷 Türkçe | [🇺🇸 English](README.md)
+
 Bu proje, TypeScript öğrenmek amacıyla oluşturulmuş bir RESTful API'dir. JWT yetkilendirmesi implementasyonu ve MongoDB ile Mongoose kullanarak CRUD işlemlerini göstermekte olup, backend geliştirme konseptleri hakkında sağlam bir anlayış kazandırmayı amaçlamaktadır.
 
 ## Özellikler

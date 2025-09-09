@@ -1,5 +1,7 @@
 # Notes API Project
 
+**Language / Dil:** [🇹🇷 Türkçe](README.tr.md) | 🇺🇸 English
+
 This project is a RESTful API for managing notes, built as a learning exercise for TypeScript. It demonstrates JWT authorization implementation and CRUD operations using Mongoose with MongoDB, providing a solid understanding of backend development concepts.
 
 ## Features
